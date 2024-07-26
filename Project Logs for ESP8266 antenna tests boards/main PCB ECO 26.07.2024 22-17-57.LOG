@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Ant Pin=-ANT
+Removed Pin From Net: NetName=GND Pin=-GND
+Removed Pin From Net: NetName=GND Pin=LS1-1
+Removed Pin From Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-3
+Added Net: Name=NetLS1_1
+Added Member To Class: ClassName=main Member=Component C10 CC0402KRX7R9BB104
+Added Member To Class: ClassName=main Member=Component C11 CC0402KRX7R9BB104

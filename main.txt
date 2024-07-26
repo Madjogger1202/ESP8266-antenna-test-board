@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\ESP8266 antenna tests boards\main.PcbDoc
+Date         : 09.06.2024
+Time         : 0:05:13
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 97,30%
+    Connections, 111
+    Connections routed, 108
+    Connections remaining, 3
+count : 4
